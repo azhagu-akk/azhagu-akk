@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azhagu Karthikeyan</h1>
 <h3 align="center">A passionate Fullstack developer(MERN) from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://akk-portfolio2.netlify.app/](https://akk-portfolio2.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://akk-portfolio2.netlify.app/](https://akk2-portfolio.netlify.app/)
 
 - 📫 How to reach me **azhagukarthikeyanb@gmail.com**
 
