@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **azhagukarthikeyanb@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qulQxx56GFku1JId8_4Bjj6CCaaXH6vj/view](https://drive.google.com/file/d/1qulQxx56GFku1JId8_4Bjj6CCaaXH6vj/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qulQxx56GFku1JId8_4Bjj6CCaaXH6vj/view](https://drive.google.com/file/d/1pXJqwUVwlRzvRYhNDL05VeeDSE5qfYLt/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
